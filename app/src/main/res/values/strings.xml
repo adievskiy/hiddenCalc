@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HiddenCalc</string>
+    <string name="textGoCalcBTN">Перейти в калькулятор</string>
+    <string name="textExitBTN">Выход</string>
+    <string name="textResetBTN">Сброс</string>
+    <string name="exit">Выход</string>
+    <string name="reset">Сброс</string>
+    <string name="textResultTV">Результат</string>
+    <string name="textDivBTN">/</string>
+    <string name="textMultBTN">*</string>
+    <string name="textDifBTN">-</string>
+    <string name="textSumBTN">+</string>
+    <string name="firstOperandHintET">Первое число</string>
+    <string name="secondOperandHintET">Второе число</string>
+    <string name="textResultBTN">Результат</string>
+</resources>
